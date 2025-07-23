@@ -73,9 +73,6 @@ Created by **Shrinivasan Shripanavar**
 📍 Location: Kolhapur, India
 
 ---
-
 🖤 *“Live your anime dream with every product!”*
-— *Anime Realm Boutique Team*
-
-```
-
+ *Anime Realm Boutique Team*
+---
