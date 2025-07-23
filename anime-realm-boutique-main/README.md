@@ -1,73 +1,78 @@
-# Welcome to your Lovable project
+# 🛒 Anime Realm Boutique
 
-## Project info
+Welcome to **Anime Realm Boutique**, your one-stop online store for exclusive anime merchandise! Whether you're a fan of Naruto, Dragon Ball, Demon Slayer, or any other legendary series — we've got something special just for you.
 
-**URL**: https://lovable.dev/projects/2d724d1f-b24f-4184-b709-94f31aaf20f5
+## 🔥 Features
 
-## How can I edit this code?
+- 🎨 Visually-rich anime-themed UI
+- 🧾 Product catalog with posters, symbols, and unique items
+- 🔍 Product Search & Filtering
+- 🛒 Shopping Cart functionality
+- 🔐 User Authentication (Login/Signup)
+- 📱 Fully responsive design for all devices
 
-There are several ways of editing your application.
+## 🚀 Tech Stack
 
-**Use Lovable**
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Backend:** (To be connected — Node.js / Django / Any)
+- **Database:** (To be integrated — MongoDB / PostgreSQL / Firebase)
+- **Deployment:** (Optional suggestion — Netlify / Vercel / Heroku)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/2d724d1f-b24f-4184-b709-94f31aaf20f5) and start prompting.
+## 📂 Project Structure
 
-Changes made via Lovable will be committed automatically to this repo.
+```plaintext
+anime-realm-boutique/
+├── assets/                 # Images, logos, icons
+├── css/                   # Stylesheets
+├── js/                    # JavaScript files
+├── index.html             # Homepage
+├── products.html          # Products listing page
+├── login.html             # Login form
+├── signup.html            # Signup form
+├── cart.html              # Shopping cart
+└── README.md              # Project documentation
+````
 
-**Use your preferred IDE**
+## 📸 Screenshots
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+> Add screenshots here once hosted or captured.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🛠️ Getting Started
 
-Follow these steps:
+1. Clone the repository:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+   ```bash
+   git clone https://github.com/yourusername/anime-realm-boutique.git
+   cd anime-realm-boutique
+   ```
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+2. Open `index.html` in your browser:
 
-# Step 3: Install the necessary dependencies.
-npm i
+   ```bash
+   open index.html
+   ```
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+## 📌 Future Enhancements
+
+* Integrate payment gateway (e.g., Razorpay/Stripe)
+* Add backend for product management & order tracking
+* Enable user profile customization
+* Admin dashboard
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to fork the project, raise issues, or submit PRs.
+
+## 📧 Contact
+
+Created by **Shrinivasan Shripanavar**
+📩 Email: \[[your-email@example.com](mailto:your-email@example.com)]
+📍 Location: Kolhapur, India
+
+---
+
+🖤 *“Live your anime dream with every product!”*
+— *Anime Realm Boutique Team*
+
 ```
 
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/2d724d1f-b24f-4184-b709-94f31aaf20f5) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
